@@ -47,7 +47,7 @@ export default function Hero() {
             >
               Hey! I am <br className="hidden sm:block md:hidden lg:block" />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-primary to-teal-500 inline-block mt-1 md:mt-2">
-                Koche Ayush
+                Ayush Koche
               </span>
             </motion.h1>
 
@@ -112,7 +112,7 @@ export default function Hero() {
               </Link>
 
               <a
-                href="/Koche_Ayush_Resume.pdf"
+                href="/Ayush_Koche_Resume.pdf"
                 download
                 className="flex justify-center items-center bg-gray-900 dark:bg-white text-white dark:text-gray-900 px-8 py-3.5 rounded-full font-bold shadow-lg hover:opacity-90 hover:-translate-y-1 transition-all duration-300 w-full sm:w-auto"
               >
